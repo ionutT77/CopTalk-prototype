@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <defs>
+    <linearGradient id="shieldGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#c49a2e;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#a8841f;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <path d="M32 4 L56 16 V36 C56 50 32 60 32 60 C32 60 8 50 8 36 V16 Z" fill="url(#shieldGrad)" stroke="#1a2744" stroke-width="2"/>
+  <text x="32" y="40" font-family="Arial,sans-serif" font-size="18" font-weight="bold" fill="#0f1a2e" text-anchor="middle">OSH</text>
+</svg>
